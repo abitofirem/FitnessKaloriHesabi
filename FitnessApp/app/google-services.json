@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819407039192",
+    "project_id": "fitnessapp-db44e",
+    "storage_bucket": "fitnessapp-db44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819407039192:android:a7b3eaf220e08ab8c7c5ad",
+        "android_client_info": {
+          "package_name": "com.iremse.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5FQttM7Y8Np9xmwfUrhhdv1buDP4LB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
